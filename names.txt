@@ -1,7 +1,7 @@
 These are the names of people inolved in PunchCode
-Kevin1
+Kevin
 Leo
-Kevin2
+Kevin
 Chris
 Mike
 Ryan
